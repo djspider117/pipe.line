@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+src/.vs
+bin
+obj
+/src/bin
+/src/obj
+/.vs
+*.suo
+*.suo
+/src/Pipeline.Sandbox/*.user
